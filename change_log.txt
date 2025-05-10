@@ -1,0 +1,1 @@
+Sat May 10 17:41:00 KST 2025: private.sh 권한을 500으로 변경
